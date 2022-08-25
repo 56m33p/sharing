@@ -1,2 +1,2 @@
 # sharing
-for sharing
+password protected
